@@ -19,7 +19,7 @@ The dashboard provides insights into:
 ## Features
 - Interactive slicers for filtering data
 - KPI cards for high-level HR metrics
-- Bar charts, pie charts, and line charts for trend analysis
+- Bar charts, pie charts, and donut charts
 - Attrition analysis by department, role, age group, and gender
 - Employee distribution by education field and marital status
 - Drill-down capabilities for deeper analysis
